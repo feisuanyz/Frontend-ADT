@@ -1,7 +1,7 @@
 前端全自动开发工具
 -----------------------------------
 
-最新版本客户端：Window版本 | MacOS版本
+最新版本客户端：[Window版本](https://download.feisuanyz.com/release/SoFlu-Page_latest.exe) | [MacOS版本](https://download.feisuanyz.com/release-mac/SoFlu-Page_latest.dmg)
 
 电脑需满足如下配置：
 
