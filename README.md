@@ -52,7 +52,6 @@ e）多终端兼容
 
 **技术文档**
 -----------------------------------
-
 - 产品文档：[操作手册](https://feisuanyz.com/support/helpCenter/)
 - 培训视频：[入门视频](https://feisuanyz.com/shortVideo/list/)
 
