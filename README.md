@@ -50,7 +50,7 @@ Enterprise users and individuals who want to quickly build frontend application 
 
 Suitable for various application scenarios that require frontend development, without any limitations on specific scenarios.
 
-#### Installation Steps：
+#### Installation Steps
 
 a）Double-click or right-click to open the installation package.
 
