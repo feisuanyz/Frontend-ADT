@@ -12,7 +12,7 @@ Installation Environment：
 | RAM     |  16 GB or above(Recommended)    |
 | Disk | 1 GB or above    |
 
-For previous client versions and installation instructions, please refer to [Frontend Installation Resource](https://github.com/feisuanyz/Frontend-ADT/tree/main/.%20Frontend%20Installation%20Resource)
+For previous client versions and installation instructions, please refer to [Frontend Installation Resource](https://github.com/feisuanyz/Frontend-ADT/tree/main/.%20Frontend%20Installation%20Resource).
 
 ===============================================
 
