@@ -1,63 +1,63 @@
-前端全自动开发工具
+Frontend Automated Development Tool(Frontend ADT)
 -----------------------------------
 
-最新版本客户端：[Window版本](https://download.feisuanyz.com/release/SoFlu-Page_latest.exe) | [MacOS版本](https://download.feisuanyz.com/release-mac/SoFlu-Page_latest.dmg)
+Latest Client：[For Windows](https://download.feisuanyz.com/release/SoFlu-Page_latest.exe) | [For MacOS](https://download.feisuanyz.com/release-mac/SoFlu-Page_latest.dmg)
 
-电脑需满足如下配置：
+Installation Environment：
 
-| 类别       | 要求                        |
-|----------|---------------------------|
-| 操作系统     | Windows 7（64位） 及以上或者macOS |
-| CPU      | 推荐 i5 以上                  |
-| 运行内存     | 推荐 16 G 以上                |
-| 软件安装磁盘容量 | 至少1 GB 容量以上               |
+| Category       | Requirement         |
+|----------|----------------|
+| Operating System    | Windows 7 and above 64-bit or MacOS |
+| CPU      | i5 or above(Recommended)   |
+| RAM     |  16 GB or above(Recommended)    |
+| Disk | 1 GB or above    |
 
-历史版本客户端及安装配置说明，请查阅[《客户端下载资源及安装说明》](https://github.com/feisuanyz/Frontend-adp/blob/main/.%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8F%8A%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E/%E5%89%8D%E7%AB%AF%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md)。
+For previous client versions and installation instructions, please refer to [Frontend Installation Resource](https://github.com/feisuanyz/Java-ADT/tree/main/.%20Installation%20Resource)
 
 ===============================================
 
-#### 产品简介
+#### Product Introduction
 
-（前端）全自动开发工具是一个高效、安全、稳定的前端应用开发工具，可帮助用户快速构建前端界面交互，大大降低了开发门槛，让不懂代码的业务人员都可以根据业务需求进行页面自定义开发，为企业降低了人员成本，同时提高了开发效率、缩短项目开发周期。
+Frontend Automated Development Tool(a.k.a Frontend ADT) is an efficient, secure, and stable tool that helps users quickly build frontend interfaces. It significantly reduces development barrier, enabling individuals without coding knowledge to customize page development based on their own requirements, thus lowering personnel costs for enterprises while improving development efficiency and reducing development cycles.
 
-##### 1. 功能特性
+##### 1. Features
 
-a）可视化开发模式
+a）Visual Development
 
-（前端）全自动开发工具提供一套可视化、配置化的开发工具，包含丰富的页面控件库，最大限度地满足用户的开发需求，用户通过拖拽使用不同的控件并进行相关配置，便可快速开发出前端界面。
+Frontend ADT provides a visual and configurable development environment with a rich library of page components. Users can quickly develop frontend interfaces by dragging and configuring different components.
 
-b）简化前后端数据联调
+b）Simplified Frontend-Backend Data Integration
 
-（前端）全自动开发工具统一前端交互效果展示和后端接口返回的数据格式，标准化、规范化的数据对接简化了前后端数据联调过程。
+Frontend ADT standardizes the interaction between frontend user interfaces and backend data formats, which simplifies the process of integrating frontend and backend data.
 
-c）多风格开发模板
+c）Various Development Templates
 
-（前端）全自动开发工具提供多种风格的开发模板，包含应用模板、页面模板和区块模板，用户可以根据不同的业务场景、交互效果，选择合适的模板，可轻松自定义设计页面效果，极大提升页面开发效率。同时用户还可以将常用的应用功能或做过的应用发布至模板市场，实现快速复用及构建应用。
+Frontend ADT offers various templates, including application templates, page templates, and block templates. Users can choose suitable templates based on different business scenarios and interaction effects, allowing for easy customization of page designs and greatly enhancing development efficiency. Additionally, users can publish commonly used application features or completed applications to the template marketplace for quick reuse and application building.
 
-d）多方式数据对接
+d）Multiple Data Integration Methods
 
-（前端）全自动开发工具数据对接不仅可以关联Java全自动开发工具项目，也可以关联第三方平台项目，填写好相关服务器信息即可。
+Frontend ADT supports integration with not only Java Automated Development Tool(a.k.a Java ADT) but also with third-party platform. By providing relevant server information, seamless data integration can be achieved.
 
-e）多终端兼容
+e）Multi-platform Compatibility
 
-（前端）全自动开发工具支持web、H5、微信小程序、微信公众号以及企业微信等多终端的应用开发，后续还将集成android及ios端；用户开发的应用项目不依赖于平台本身运行，通过下载应用项目的部署服务包便可自行部署到运行环境。
+Frontend ADT supports application development for web, H5, WeChat Mini Programs, WeChat Official Accounts, and Enterprise WeChat, with future integration planned for Android and iOS platforms. Applications developed are independent of the platform itself and can be deployed in runtime environment by downloading deployment package.
 
-##### 2. 面向用户
+##### 2. Target Users
 
-想要快速构建前端应用系统的企业用户和个人。
+Enterprise users and individuals who want to quickly build frontend application systems.
 
-##### 3. 应用场景
+##### 3. Application Scenarios
 
-适用于需进行前端开发的各种应用场景，没有场景限制。
+Suitable for various application scenarios that require frontend development, without any limitations on specific scenarios.
 
-**技术文档**
+**Official Document**
 -----------------------------------
-- 产品文档：[操作手册](https://feisuanyz.com/support/helpCenter/)
-- 培训视频：[入门视频](https://feisuanyz.com/shortVideo/list/)
+- Product：[Text Tutorial](https://feisuanyz.com/support/helpCenter/)
+- Video：[Video Tutorial](https://feisuanyz.com/shortVideo/list/)
 
-**交流互动**
+**Community**
 -----------------------------------
-- 交流群：**请扫下方二维码，加入企业微信群交流** <br><br>
-![互动交流群](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
-- 问题反馈：[请在Issues专栏反馈问题](https://github.com/feisuanyz/SoFlu-adp/issues)
-- 参与开源：欢迎加入SoFlu软件机器人开源团队，共同进步！
+- Join us in Wechat Group
+![WechatGroup](https://github.com/feisuanyz/SoFlu-adp/blob/main/images/QRCode.PNG) <br><br>
+- Feedback：[Providing Issue](https://github.com/feisuanyz/Java-ADT/issues)
+- Welcome to SoFlu community to make frontend development better!
