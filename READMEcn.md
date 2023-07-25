@@ -1,6 +1,6 @@
 前端全自动开发工具
 -----------------------------------
-语言: [English](https://github.com/feisuanyz/Frontend-ADT/blob/main/README.md) | [中文](https://github.com/feisuanyz/Frontend-ADT/blob/main/READMEcn.md)
+语言：[中文](https://github.com/feisuanyz/Frontend-ADT/blob/main/READMEcn.md) | [English](https://github.com/feisuanyz/Frontend-ADT/blob/main/README.md)
 
 #### 安装包下载
 
