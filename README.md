@@ -1,5 +1,6 @@
 Frontend Automated Development Tool(Frontend ADT)
 -----------------------------------
+English | [中文](https://github.com/feisuanyz/Frontend-ADT/blob/main/READMEcn.md)
 
 Latest Client：[For Windows](https://download.feisuanyz.com/release/SoFlu-Page_latest.exe) | [For MacOS](https://download.feisuanyz.com/release-mac/SoFlu-Page_latest.dmg)
 
