@@ -62,6 +62,6 @@ e）多终端兼容
 **交流互动**
 -----------------------------------
 - 交流群：**请扫下方二维码，加入企业微信群交流** <br><br>
-![输入图片说明](image/f14.png)<br><br>
+![image](https://github.com/feisuanyz/Frontend-ADT/assets/79617492/593ab0b5-5300-4d58-a23d-5f146e5414e9)<br><br>
 - 问题反馈：[请在Issues专栏反馈问题](https://gitee.com/feisuanyz/SoFlu-adp/issues)
 - 参与开源：欢迎加入SoFlu软件机器人开源团队，共同进步！
