@@ -4,7 +4,7 @@
 
 #### 安装包下载
 
-最新版本客户端：[Window版本](https://download.feisuanyz.com/release/SoFlu-Page_latest.exe) | [MacOS版本](https://download.feisuanyz.com/release-mac/SoFlu-Page_latest.dmg)
+# 客户端下载地址：[Window版本](https://download.feisuanyz.com/release/SoFlu-Page_latest.exe) | [MacOS版本](https://download.feisuanyz.com/release-mac/SoFlu-Page_latest.dmg)
 
 #### 安装环境配置要求
 
